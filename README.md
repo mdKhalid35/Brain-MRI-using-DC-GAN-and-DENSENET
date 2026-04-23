@@ -30,7 +30,6 @@ Traditional GANs often struggle with **mode collapse** (generating the same imag
 
 
 
-
 ![Sample 1](path/to/your/image1.png) | ![Sample 2](path/to/your/image2.png) 
 :-------------------------:|:-------------------------:
 *Epoch 10: Early Formation* | *Epoch 60: High-Resolution Synthetic MRI*
