@@ -29,8 +29,11 @@ Traditional GANs often struggle with **mode collapse** (generating the same imag
 ## 📊 Results & Output
 
 
+### Generated MRI Samples
 
-![Sample 1](path/to/your/image1.png) | ![Sample 2](path/to/your/image2.png) 
+| Epoch 10 (Early Training) | Epoch 60 (High Resolution) |
+| :---: | :---: |
+| ![Epoch 10](epoch_10.png) | ![Epoch 60](epoch_60.png) |
 :-------------------------:|:-------------------------:
 *Epoch 10: Early Formation* | *Epoch 60: High-Resolution Synthetic MRI*
 
